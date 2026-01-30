@@ -1,6 +1,6 @@
 # DSA
 
-This repository contains my LeetCode problem solutions in Python.(DSA)
+This repository contains my LeetCode problem solutions in Python.
 
 ## Language
 - Python
